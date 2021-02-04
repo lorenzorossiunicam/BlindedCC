@@ -1,6 +1,6 @@
 How-To
 
-This is the version of consistency checking tool integrated within the Eclipse BPMN modeling environment. It allows to check consistency guidelines in a multi-layer BPMN Collaboration. 
+This is the version of consistency checking tool integrated within the Eclipse BPMN modeling environment. It allows to check consistency guidelines in a hierarchical BPMN Collaboration. 
 
 Before installing the pliging, be sure to install the bpmn2 modeler plugin from https://www.eclipse.org/bpmn2-modeler/
 
